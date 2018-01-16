@@ -1,0 +1,6 @@
+*.zip
+*.hlt
+__pycache__
+models/*
+data/*
+self_play/*
